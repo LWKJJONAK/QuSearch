@@ -1,0 +1,22 @@
+[package]
+name = "qusearch"
+version = "1.0.0"
+edition = "2021"
+rust-version = "1.96"
+publish = false
+
+[[bin]]
+name = "torus"
+path = "src/torus.rs"
+
+[[bin]]
+name = "marked_equilibrium"
+path = "src/marked_equilibrium.rs"
+
+[[bin]]
+name = "check_bound"
+path = "src/check_bound.rs"
+
+[[bin]]
+name = "check_graphs"
+path = "src/check_graphs.rs"

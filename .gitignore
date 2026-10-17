@@ -1,0 +1,6 @@
+/target/
+/output/
+/Cargo.lock
+.venv/
+__pycache__/
+.DS_Store

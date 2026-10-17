@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper."
+type: software
+title: "QuSearch: code and data for 'Electrostatic Limits on Quantum Spatial Search'"
+authors:
+  - family-names: Li
+    given-names: Weikang
+license: MIT
+repository-code: "https://github.com/LWKJJONAK/QuSearch"
+preferred-citation:
+  type: unpublished
+  title: "Electrostatic Limits on Quantum Spatial Search"
+  year: 2026
+  authors:
+    - family-names: Li
+      given-names: Weikang
